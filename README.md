@@ -3,7 +3,7 @@
 
 Este repositorio fue creado con la intención de recordar cómo hacer la clave SSH y usarla en GitHub.
 
-# Nota antes de empezar
+## Nota antes de empezar
 
 - Si estas en Windows se debe ejecutar desde Git Bash (previamente instalado junto a git)
 - Si estas en Linux se puede ejecutar desde cualquier terminal (cabe recordar tener git ya instalado)
@@ -30,5 +30,5 @@ Este repositorio fue creado con la intención de recordar cómo hacer la clave S
 
 5. Clonar el proyecto utilizando SSH.
 ```sh
-   git clone "comando_git"
+   git clone comando_git_ssh
    ```
